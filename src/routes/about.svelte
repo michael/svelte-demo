@@ -40,6 +40,9 @@
 	<p>
 		Change the text of another paragraph.
 	</p>
+	<p>
+		Next paragraph.
+	</p>
 </div>
 
 <style>
